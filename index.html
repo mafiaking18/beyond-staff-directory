@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Directory</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="head-nav">
+        <img src="https://i.ibb.co/PswVDGyp/beyond-logo.png" alt="beyond-logo" id="beyond-logo">
+        <h1>User Directory</h1>
+    </div>
+    <div class="welcome-text">
+        <h2>Welcome to the Beyond Co. Staff Directory</h2>
+        <p>Need to find someone? Simply search by <strong>name</strong>, <strong>department</strong>, or <strong>role</strong> to find the right team member.</p>
+        <p>If you have any questions or need help using the directory, feel free to contact us at <a href="mailto:info@beyond-co.com">info@beyond-co.com</a>.</p>
+    </div>
+    
+    <input type="text" id="search"  placeholder="Search Users..." oninput="searchUsers()">
+    <select id="sort" onchange="sortUsers()">
+        <option value="asc">Sort : A-Z</option>
+        <option value="desc">Sort: Z-A</option>
+    </select>
+    <div class="cards">
+    <div id="user-list"></div>
+    <script src="script.js"></script>
+</div>
+</body>
+</html>

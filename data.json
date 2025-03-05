@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Jake Lines",
+      "email": "jake@beyond-co.com",
+      "role": "Managing Director",
+      "department": "Operations",
+      "profilePicture": "https://i.ibb.co/JFMMkr3K/jake.png"
+
+    },
+    {
+      "id": 2,
+      "name": "Sophie Lines",
+      "email": "sophie@beyond-co.com",
+      "role": "Operations Director",
+      "department": "Operations",
+      "profilePicture": "https://i.ibb.co/3570DSMs/sophie.png"
+    },
+    {
+      "id": 3,
+      "name": "Jordan Lines",
+      "email": "jordan@beyond-co.com",
+      "role": "Client Services Lead",
+      "department": "Operations/Web",
+      "profilePicture": "https://i.ibb.co/zH77HD2W/jordan.png"
+    },
+    {
+      "id": 4,
+      "name": "Stewart O'Connor",
+      "email": "stewart@beyond-co.com",
+      "role": "Content & Growth Specialist",
+      "department": "Marketing",
+      "profilePicture": "https://i.ibb.co/nsxJFhhd/stewart.png"
+    },
+    {
+      "id": 5,
+      "name": "Michgolden (Mike) Ukeje",
+      "email": "mike@beyond-co.com",
+      "role": "Web Developer",
+      "department": "Web",
+      "profilePicture": "https://i.ibb.co/fGzWrkWN/michgolden.png"
+    },
+    {
+      "id": 6,
+      "name": "Harry Ladejo",
+      "email": "harry@beyond-co.com",
+      "role": "Designer",
+      "department": "Creative",
+      "profilePicture": "https://i.ibb.co/dwWSmYDK/harry.png"
+    },
+    {
+      "id": 7,
+      "name": "Anastasia Antonio",
+      "email": "anastasia@beyond-co.com",
+      "role": "Junior Web Developer",
+      "department": "Web",
+      "profilePicture": "https://i.ibb.co/0Vjj3sXf/anastasia.png"
+    },
+    {
+      "id": 8,
+      "name": "Saskia Haas-Lee",
+      "email": "saskia@beyond-co.com",
+      "role": "Marketing Assistant",
+      "department": "Marketing",
+      "profilePicture": "https://i.ibb.co/JFMMkr3K/jake.png"
+    },
+    {
+      "id": 9,
+      "name": "Charlie Shrimpton",
+      "email": "charlie@beyond-co.com",
+      "role": "Accounts Assistant",
+      "department": "Operations",
+      "profilePicture": "https://i.ibb.co/Xx4ZSVc5/charlie.png"
+    },
+    {
+      "id": 10,
+      "name": "Tia Porter",
+      "email": "tia@beyond-co.com",
+      "role": "Marketing Assistant",
+      "department": "Marketing",
+      "profilePicture": "https://i.ibb.co/WWq041Jz/tia.png"
+    }
+  ]
