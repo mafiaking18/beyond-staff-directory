@@ -17,4 +17,4 @@ Welcome to the Beyond Co. Staff Directory — a simple platform to search for te
 - JSON (for data storage)
 
 ## Questions?
-Contact the Development Team at harry@beyond-co.com
+Contact the Development Team at dev@beyond-co.com
